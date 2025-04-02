@@ -1,0 +1,1 @@
+In this folder I'm planning to install the Moodle LMS - https://moodle.org/ .
